@@ -1,6 +1,6 @@
 ## Hi there 🎀
 
-<img align="center" src="https://i.gifer.com/origin/bf/bfb8c527d568ee087905b0b4b525a192_w200.webp" height="100" />
+<img align="center" src="https://i.gifer.com/origin/bf/bfb8c527d568ee087905b0b4b525a192_w200.webp" height="150" />
 <!--
 **GannaFilch/GannaFilch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
